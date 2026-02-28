@@ -64,6 +64,13 @@ License Info
   MIT License allows anyone to use, modify, and distribute this software with proper attribution. It is provided “as is”, without warranty of any kind.
   © 2026 RapuShield. All rights reserved.
 
+<img width="1591" height="764" alt="image" src="https://github.com/user-attachments/assets/c2c30330-eae0-4fa7-99fd-34d8553a8b51" />
+<img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/dc130235-ea61-4b7e-b36d-5e1be2e3a092" />
+![Uploading image.png…]()
+
+
+
+
 Team Members:
   Anjana Krishna V(UI Designer)
   Devanandana K P
