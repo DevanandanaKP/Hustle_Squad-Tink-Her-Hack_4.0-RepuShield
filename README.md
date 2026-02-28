@@ -66,13 +66,19 @@ License Info
 
 <img width="1591" height="764" alt="image" src="https://github.com/user-attachments/assets/c2c30330-eae0-4fa7-99fd-34d8553a8b51" />
 <img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/dc130235-ea61-4b7e-b36d-5e1be2e3a092" />
-![Uploading image.png…]()
+<img width="1600" height="776" alt="image" src="https://github.com/user-attachments/assets/713f734d-d457-4f60-8d6f-b4d3ee0b8d14" />
+<img width="1600" height="758" alt="image" src="https://github.com/user-attachments/assets/3ad0e386-a941-4af8-928a-3218c04a0df5" />
+
+
+
+
+
 
 
 
 
 Team Members:
-  Anjana Krishna V(UI Designer)
+  Anjana Krishna V
   Devanandana K P
 
 
