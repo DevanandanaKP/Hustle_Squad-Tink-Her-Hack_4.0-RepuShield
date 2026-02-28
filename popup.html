@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h2>HerDefend</h2>
+      <label class="switch">
+        <input type="checkbox" id="shieldBtn">
+        <span class="slider round"></span>
+      </label>
+    </div>
+
+    <div class="card">
+      <h1 id="score">Scanning...</h1>
+      <p id="status">Open YouTube to start</p>
+    </div>
+
+    <div class="community-section">
+      <h3>Community Trust Rating</h3>
+      <div id="votedIndicator" class="voted-msg" style="display: none;">Thank you for your rating!</div>
+      <div class="button-group">
+        <button id="safeBtn" class="btn" data-voted-text="SAFE">Safe</button>
+        <button id="suspiciousBtn" class="btn" data-voted-text="SUSP.">Suspicious</button>
+        <button id="unsafeBtn" class="btn" data-voted-text="UNSAFE">Unsafe</button>
+      </div>
+      <p id="communityScore" class="stats">Loading...</p>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
+</html>
