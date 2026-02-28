@@ -1,5 +1,5 @@
 # Hustle_Squad-Tink-Her-Hack_4.0-RepuShield
-RapuShield is an AI-powered browser extension that analyzes website safety, detects online risks, and protects users from threats. It blurs toxic comments, highlights positive ones, and warns users before posting harmful content—promoting a safer and more respectful internet experience.
+RapuShield is an browser extension that analyzes website safety, detects online risks, and protects users from threats. It blurs toxic comments, highlights positive ones, and warns users before posting harmful content—promoting a safer and more respectful internet experience.
 
 Project Description
 In addition to website safety analysis, RapuShield promotes digital positivity through its Reputation Shield feature. On social platforms like YouTube:
